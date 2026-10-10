@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.suo
+*.opendb
+*.db
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
