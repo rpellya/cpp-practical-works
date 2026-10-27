@@ -199,13 +199,18 @@ switch (inputUser) {
 ```text
 cpp-practical-works/
 │
-├── Lab1_BasicTypes/               # [Готово] Базовые типы данных, функции, циклы, ввод/вывод + EP тесты
+├── Lab1_BasicTypes/                           # [Готово] Базовые типы данных, функции, циклы, ввод/вывод + EP тесты
 │   ├── Lab1_BasicTypes.sln
 │   ├── Lab1_BasicTypes.vcxproj
 │   └── main.cpp
 │
-├── Lab2_PointersMemory/           # [План] Указатели, динамическая память (new/delete) + EP тесты
-├── Lab3_ReferencesStructs/        # [План] Ссылки, rvalue/lvalue, структуры данных + EP тесты
+├── Lab2_dynamicArrays_and_pointers/           # [Готово] Динамические массивы, указатели, матричное умножение (Вар. 0) + EP тесты
+│   ├── Lab2_dynamicArrays_and_pointers.vcxproj
+│   ├── source.cpp
+│   ├── matrix.cpp
+│   └── matrix.h
+│
+├── Lab3_ReferencesStructs/                    # [План] Ссылки, rvalue/lvalue, структуры данных + EP тесты
 ├── Lab4_OOP_Intro/                # [План] Классы, конструкторы, деструкторы, операторы + EP тесты
 ├── Lab5_Encapsulation/            # [План] Инкапсуляция и сокрытие реализации + EP тесты
 ├── Lab6_ClassRelations/           # [План] Ассоциация, композиция, агрегация + EP тесты
