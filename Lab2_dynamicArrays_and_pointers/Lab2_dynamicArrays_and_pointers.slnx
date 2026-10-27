@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab2_dynamicArrays_and_pointers.vcxproj" Id="3db07c76-d75b-4973-8d0f-7e4311242d22" />
+</Solution>
