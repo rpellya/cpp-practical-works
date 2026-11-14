@@ -8,4 +8,5 @@
   </Folder>
   <Project Path="Lab1_BasicTypes/Lab1_BasicTypes.vcxproj" Id="2618297f-c1d6-4029-b17f-a0f304cd659f" />
   <Project Path="Lab2_dynamicArrays_and_pointers/Lab2_dynamicArrays_and_pointers.vcxproj" Id="3db07c76-d75b-4973-8d0f-7e4311242d22" />
+  <Project Path="PR3_Figurs_and_Points/PR3_Figurs_and_Points.vcxproj" Id="289251f5-3df2-4930-94de-93e7985c1526" />
 </Solution>
